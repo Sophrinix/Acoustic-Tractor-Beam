@@ -5,7 +5,7 @@ Acoustic Tractor Beam
 ********************************
 Levitate objects using sound waves.
 
-Group: Cody, John, Vince
+By: Cody, John, & Vince
 ========================
 
 Using the guidance from Asier Marzo in his instructable:
