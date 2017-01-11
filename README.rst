@@ -3,7 +3,7 @@
 ********************************
 Acoustic Tractor Beam
 ********************************
-Levitate objects using sound waves.
+Levitate objects using waves.
 
 By: Cody, John, & Vince
 ========================
