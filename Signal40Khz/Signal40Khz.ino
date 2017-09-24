@@ -2,7 +2,8 @@
 #include <avr/power.h>
 
 byte pattern = 0b00000000; //all the ports (D0 to D7) will output the same signal
-//byte pattern = 0b10101010; //consecutive ports will have an opposite signal
+//byte pattern = 0b10101010; 
+//consecutive ports will have an opposite signal
 
 void setup()
 {
